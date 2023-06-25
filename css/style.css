@@ -1,0 +1,122 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+	background: #FFD1AF;
+}
+.bacground{
+	background: url(/img/image12.png);
+	min-height: 100vh;
+}
+li{
+	list-style: none;
+}
+a{
+	text-decoration: none;	
+	color: black;
+}
+a:hover{
+	text-decoration: underline;
+}
+.flex{
+	display: flex;
+}
+.header_up_section {
+}
+.width {
+	max-width: 1438px;
+	margin: 0 auto;
+}
+.header_nav_section {
+	background: #D98658;
+	height: 183px;
+}
+.header_nav_section ul{
+	align-items: center;
+	justify-content: space-around;
+}
+.header_nav_section a{
+	padding: 20px;
+	background: #FFD1AF;
+	color: #000;
+	text-align: center;
+	font-size: 30px;
+}
+.main {
+}
+
+.Personal {
+}
+.personal_main {
+	background: #fff;
+	padding-top: 34px;
+	padding-bottom: 100px;
+}
+.area {
+	max-width:  1135px;
+	background: #FFD1AF;
+	margin: 0 auto;
+	padding: 17px;
+}
+.area li{
+	color: #000;
+	font-weight: 100;
+	text-align: center;
+	font-size: 32px;
+	margin-bottom: 48px;
+
+}
+.orders {
+	max-width:  1135px;
+	background: #FFD1AF;
+	margin: 0 auto;
+	margin-top: 20px;
+	padding: 17px;
+}
+.orders h2{
+	color: #000;
+	text-align: center;
+	font-size: 32px;
+	font-weight: 100;
+	padding: 30px 0;
+}
+.orders_block{
+	background: #fff;
+}
+.orders_block h2{
+	color: #000;
+	text-align: center;
+	font-size: 32px;
+}
+.orders_flex {
+	display: flex;
+	justify-content: space-around;
+	padding-bottom: 20px;
+}
+.orders_card {
+	background: #FFD1AF;
+	width: 223px;
+	min-height: 335px;
+	text-align: center;
+	padding-bottom: 10px;
+}
+.orders_card img{
+	background: #FFD1AF;
+	padding: 5px 0;
+}
+.orders_card h3{
+	color: #000;
+	font-size: 30px;
+}
+.orders_card p{
+	color: #000;
+	font-size: 30px;
+	font-weight: 100;
+	text-align: left;
+	padding-left: 20px;
+}
+.footer {
+}

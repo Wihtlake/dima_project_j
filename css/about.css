@@ -1,0 +1,29 @@
+.about {
+}
+.width {
+	background: #fff;
+
+}
+.about_main {
+	padding: 20px;
+}
+.about_block{
+	margin: 0 auto;
+	text-align: center;
+	padding-bottom: 50px;
+	background: #FFD1AF;
+	width: 90%;
+	margin-bottom: 20px;
+}
+.about_block p{
+	color: #000;
+	text-align: center;
+	font-size: 32px;
+	padding: 50px 0;
+}
+.about_block img{
+	padding: 20px 0;
+}
+
+
+
