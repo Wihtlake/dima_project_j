@@ -27,7 +27,7 @@
 	background: #FFD1AF;
 	padding: 5px 0;
 }
-.orders_card h3{
+.orders_card a{
 	color: #000;
 	font-size: 30px;
 }
